@@ -5,9 +5,7 @@ import java.util.function.Function;
 import java.util.function.IntPredicate;
 import java.util.function.ToIntFunction;
 import java.util.List;
-import java.util.Comparator;
 import java.util.ArrayList;
-import java.util.Arrays;
 
 public class Seccion1 {
     public static void main(String[] args) throws Exception {
